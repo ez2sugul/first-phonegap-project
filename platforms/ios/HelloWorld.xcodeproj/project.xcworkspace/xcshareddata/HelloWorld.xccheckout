@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76636F63-D632-49EB-9160-8C7F9B90581F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB673560-EFEF-4EB4-B1C3-9701CDC84092</key>
+		<string>https://skvalley.com/svn/repos/skplanet_newcomer</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PhoneGap/my-app/platforms/ios/HelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB673560-EFEF-4EB4-B1C3-9701CDC84092</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>BB673560-EFEF-4EB4-B1C3-9701CDC84092</key>
+		<string>https://skvalley.com/svn/repos/skplanet_newcomer</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://skvalley.com/svn/repos/skplanet_newcomer/PhoneGap/my-app/platforms/ios/HelloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB673560-EFEF-4EB4-B1C3-9701CDC84092</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB673560-EFEF-4EB4-B1C3-9701CDC84092</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
